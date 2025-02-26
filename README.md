@@ -57,7 +57,7 @@ Advice Slip API for providing random advice.
 React for the powerful UI framework.
 
 🚀 Live Demo
-You can see a live demo at: Your Live URL Here
+You can see a live demo at: (https://malathi-n79.github.io/quote-generator/)
 
 📧 Contact
 For any questions or feedback, feel free to reach out!
