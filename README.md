@@ -22,7 +22,7 @@ This is a simple and fun React app that gives you random pieces of advice. Just 
 ## ⚙️ Installation and Setup
 
 1. **Clone the repository:**
-   git clone https://github.com/your-username/advice-app.git
+   git clone (https://github.com/MALATHI-N79/quote-generator.git)
    cd advice-app
    
 Install dependencies:
