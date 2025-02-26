@@ -23,6 +23,7 @@ This is a simple and fun React app that gives you random pieces of advice. Just 
 
 1. **Clone the repository:**
    git clone (https://github.com/MALATHI-N79/quote-generator.git)
+   
    cd advice-app
    
 Install dependencies:
@@ -33,6 +34,7 @@ npm run dev
 The app should now be running on http://localhost:5173
 
 🔨 How It Works
+
 On component mount, the app fetches a random piece of advice using the Advice Slip API.
 The advice is displayed in a card with smooth animations and gradient styling.
 Clicking the "GIVE ME ADVICE!" button fetches a new piece of advice.
